@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.stream.StreamSupport;
 import static java.lang.Math.log;
 import static java.lang.Math.pow;
-    public class Calculator {
+    public class Main {
         public static void main(String args[])
         {
             System.out.println("Enter your choice for calculation \n 1. Factorial Function \n 2. Square Root \n 3.Power Function \n 4. Natural Log (Base e) \n)");

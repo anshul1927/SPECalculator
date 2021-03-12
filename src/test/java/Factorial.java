@@ -5,29 +5,29 @@ import static org.junit.Assert.*;
 
 public class Factorial {
 
-    private Calculator calculator;
+    private Main main;
 
 
     @Before
     public void setUp() {
-        calculator = new Calculator();
+        main = new Main();
     }
 
     @Test
     public void factOne() {
-        assertTrue("testcase 1", 120==calculator.calcfact(5));
+        assertTrue("testcase 1", 120== main.calcfact(5));
         ;
     }
 
     @Test
     public void factTwo() {
-        assertFalse("testcase 2", 120 == calculator.calcfact(6));
+        assertFalse("testcase 2", 120 == main.calcfact(6));
         ;
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void factNegatve() {
         long f = -1;
-        calculator.calcfact(-1);
+        main.calcfact(-1);
     }
 }

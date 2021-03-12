@@ -5,17 +5,17 @@ import static org.junit.Assert.*;
 
 public class Power {
 
-    private Calculator calculator;
+    private Main main;
 
 
     @Before
     public void setUp() {
-        calculator = new Calculator();
+        main = new Main();
     }
 
     @Test
     public void power() {
-        assertTrue("testcase 3", 16.0 == calculator.calcpower(4, 2));
+        assertTrue("testcase 3", 16.0 == main.calcpower(4, 2));
         ;
     }
 }
