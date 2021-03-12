@@ -15,7 +15,7 @@ public class Factorial {
 
     @Test
     public void factOne() {
-        assertEquals("testcase 1", java.util.Optional.of(120), calculator.calcfact(5));
+        assertTrue("testcase 1", 120==calculator.calcfact(5));
         ;
     }
 

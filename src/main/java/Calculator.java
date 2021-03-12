@@ -68,7 +68,7 @@ import static java.lang.Math.pow;
         }
 
         static Double calcsqroot(Double x) {
-            Double op = pow(x,1/2);
+            Double op = pow(x,1/2.0);
             return op;
         }
     }
