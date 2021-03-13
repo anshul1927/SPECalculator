@@ -93,4 +93,4 @@
 2021-03-12 12:53:59.621 [main] INFO  calculator.Calculator - [POWER - 3.0 RAISED TO] 3.0
 2021-03-12 12:53:59.622 [main] INFO  calculator.Calculator - [RESULT - POWER] - 27.0
 2021-03-12 12:54:15.652 [main] INFO  calculator.Calculator - [NATURAL LOG] - 3.0
-2021-03-12 12:54:15.653 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 1.0986122886681098
+2021-03-12 12:54:15.653 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 1.098612288668109
