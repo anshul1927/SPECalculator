@@ -1,0 +1,32 @@
+13/Mar/2021:15:00:42 103 [Main.java] [INFO] Main [Square Root] - -1.0
+13/Mar/2021:15:00:42 111 [Main.java] [INFO] Main [RESULT - Square Root] - NaN
+13/Mar/2021:15:08:11 438 [Main.java] [INFO] Main [Square Root] - -1.0
+13/Mar/2021:15:08:11 452 [Main.java] [INFO] Main [RESULT - Square Root] - NaN
+13/Mar/2021:15:08:11 453 [Main.java] [INFO] Main [RESULT - Square Root] - NaN
+13/Mar/2021:15:16:55 162 [Main.java] [INFO] Main [Square Root] - -1.0
+13/Mar/2021:15:16:55 169 [Main.java] [INFO] Main [RESULT - Square Root] - NaN
+13/Mar/2021:15:18:23 028 [Main.java] [INFO] Main [Square Root] - -1.0
+13/Mar/2021:15:18:23 034 [Main.java] [INFO] Main [RESULT - Square Root] - NaN
+13/Mar/2021:16:17:48 149 [Main.java] [INFO] Main [EXCEPTION - Square Root] - SQRT of negative number is not possible!
+13/Mar/2021:16:17:48 158 [Main.java] [ERROR] Main Input can't be negative
+13/Mar/2021:16:18:45 314 [Main.java] [INFO] Main [Square Root] - 2.0
+13/Mar/2021:16:18:45 316 [Main.java] [INFO] Main [RESULT - Square Root] - 1.4142135623730951
+13/Mar/2021:16:19:06 129 [Main.java] [INFO] Main [Square Root] - 4.0
+13/Mar/2021:16:19:06 130 [Main.java] [INFO] Main [RESULT - Square Root] - 2.0
+13/Mar/2021:16:28:51 425 [Main.java] [INFO] Main [Power] - 4, 2
+13/Mar/2021:16:28:51 435 [Main.java] [INFO] Main [RESULT - Power] - 16.0
+13/Mar/2021:16:29:11 796 [Main.java] [INFO] Main [EXCEPTION - Factorial] - Factorial of negative number is not possible!
+13/Mar/2021:16:29:11 797 [Main.java] [ERROR] Main Input can't be negative
+13/Mar/2021:16:32:01 949 [Main.java] [INFO] Main [Factorial] - 5
+13/Mar/2021:16:32:01 959 [Main.java] [INFO] Main [RESULT - Factorial] - 120
+13/Mar/2021:16:32:01 962 [Main.java] [INFO] Main [Factorial] - 6
+13/Mar/2021:16:32:01 963 [Main.java] [INFO] Main [RESULT - Factorial] - 720
+13/Mar/2021:16:32:01 966 [Main.java] [INFO] Main [EXCEPTION - Factorial] - Factorial of negative number is not possible!
+13/Mar/2021:16:32:20 425 [Main.java] [INFO] Main [EXCEPTION - Natural Log] - Natural Log of negative number is not possible!
+13/Mar/2021:16:32:20 441 [Main.java] [INFO] Main [Natural Log] - 2.0
+13/Mar/2021:16:32:20 443 [Main.java] [INFO] Main [RESULT - Natural Log] - 0.6931471805599453
+13/Mar/2021:16:32:29 794 [Main.java] [INFO] Main [Power] - 4, 2
+13/Mar/2021:16:32:29 806 [Main.java] [INFO] Main [RESULT - Power] - 16.0
+13/Mar/2021:16:32:38 228 [Main.java] [INFO] Main [EXCEPTION - Square Root] - SQRT of negative number is not possible!
+13/Mar/2021:16:32:38 244 [Main.java] [INFO] Main [Square Root] - 16.0
+13/Mar/2021:16:32:38 246 [Main.java] [INFO] Main [RESULT - Square Root] - 4.0
